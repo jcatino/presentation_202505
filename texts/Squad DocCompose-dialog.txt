@@ -1,0 +1,19 @@
+The scene occurs at the office with three characters:
+
+Peter, a 38 years old male, a little fat, with blond heair and blue eyes.
+Kelly, a afro-caribean women, tall, with black curly hair and brown eyes.
+Brian a short latin 30 years old man with a little black mustache, light brown eyes and short black hair.
+
+All the characters are with social clothes.
+
+
+Peter-Hello guys; will we be on time for the launching of our new financial product?
+Kelly-Well, the validation of the product notice takes more time than expected...
+Peter-How come? The blue print was provided 3 months ago!
+Brian-Yes but many actors must align on the content: the business stakeholders, the partnership, the legal, the marketing, the communication departments...
+Kelly-And this is just for Cardif side; but you have the same on the Business Partner side...
+Brian-I confirm: each single word, image, chapter has to be reveiwed and it implies many exchanges, discussions, comings and goings...
+Peter-So, what is the lastest version of the working document?
+Brian-You mean the one from the Cardif legal department or from the Partner marketing?
+Peter-They are not on the same version?!?
+Kelly-Well... I'm not sure they are dealing with the very last one; let me check my emails, Jiras & Teams with other scrum masters and project owners...
