@@ -1,7 +1,7 @@
 1
 00:00:00,680 --> 00:00:05,680
-Hello guys! 
-Will we be on time for the launching of our new insurance product?
+Hello guys! Will we be on time 
+for the launching of our new insurance product?
 
 2
 00:00:05,640 --> 00:00:10,640
@@ -56,16 +56,16 @@ You mean the one from the Cardif legal department
 or from the Partner marketing?
 
 13
-00:00:44,760 --> 00:00:47,199
+00:00:44,760 --> 00:00:47,200
 They are not on the same version ?!?
 
 14
-00:00:49,840 --> 00:00:54,080
+00:00:50,880 --> 00:00:54,640
 Well... I'm not sure they are dealing 
 with the very last one
 
 15
-00:00:54,360 --> 00:01:00,760
+00:00:54,879 --> 00:01:00,760
 Let me check my emails, Jiras & Teams, 
 with other scrum masters and product managers...
 
