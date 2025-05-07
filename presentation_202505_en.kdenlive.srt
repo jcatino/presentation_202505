@@ -1,0 +1,72 @@
+1
+00:00:00,680 --> 00:00:05,680
+Bonjour; est-ce que nous serons dans les temps pour le lancement de notre nouveau produit d'assurance?
+
+2
+00:00:05,640 --> 00:00:10,640
+He bien, la validation de la notice produit prend plus de temps que prévu...
+
+3
+00:00:10,640 --> 00:00:14,080
+Comment se fait-il? 
+Le projet de notice a été fourni il y a 3 mois!
+
+4
+00:00:14,080 --> 00:00:17,520
+Oui mais beaucoup d'acteurs doivent se mettre d'accord sur le contenu
+
+5
+00:00:17,520 --> 00:00:20,480
+les métiers, les départements 
+relation délégataire, juridique,...
+
+6
+00:00:20,480 --> 00:00:23,320
+actuariat, marketing, communication...
+
+7
+00:00:23,320 --> 00:00:25,600
+Et ça c'est juste côté Cardif;
+
+8
+00:00:25,599 --> 00:00:29,479
+...vous avez la même chose du côté du Partenaire 
+sur la partie commerciale...
+
+9
+00:00:29,479 --> 00:00:33,760
+Je confirme: chaque mot, chaque image, chaque chapitre doit être revu...
+
+10
+00:00:33,760 --> 00:00:37,559
+et cela implique beaucoup d'échanges, 
+de discussions, d'allers et retours...
+
+11
+00:00:37,560 --> 00:00:41,120
+Bon, quelle est la dernière version
+du document de travail?
+
+12
+00:00:41,120 --> 00:00:45,480
+Tu veux dire celle du juridique Cardif 
+ou celle du marketing partenaire?
+
+13
+00:00:45,480 --> 00:00:47,640
+Ils ne sont pas sutr la même version?!?
+
+14
+00:00:49,840 --> 00:00:52,840
+Heu... Je ne suis pas sûre 
+qu'ils utilisent la toute dernière version
+
+15
+00:00:52,840 --> 00:00:58,320
+laisse moi vérifier mes emails, les Jiras et Teams
+avec les autres scrum masters et chefs produits...
+
+16
+00:00:58,320 --> 00:00:59,600
+A suivre...
+

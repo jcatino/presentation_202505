@@ -1,0 +1,75 @@
+1
+00:00:00,680 --> 00:00:05,680
+Hello guys! 
+Will we be on time for the launching of our new insurance product?
+
+2
+00:00:05,640 --> 00:00:10,640
+Well, the validation of the product notice 
+takes more time than expected...
+
+3
+00:00:10,640 --> 00:00:14,080
+How come? 
+The blue print was provided 3 months ago!
+
+4
+00:00:14,080 --> 00:00:17,520
+Yes but many actors must align on the content.
+
+5
+00:00:17,520 --> 00:00:20,480
+The business stakeholders, 
+the partnership,  legal, ...
+
+6
+00:00:20,480 --> 00:00:23,320
+... actuarial, marketing, 
+communication departments...
+
+7
+00:00:23,320 --> 00:00:25,600
+And this is just for Cardif side
+
+8
+00:00:25,599 --> 00:00:29,479
+...but you have the same 
+on the Business Partner side on the commercial aspects...
+
+9
+00:00:29,479 --> 00:00:33,760
+I confirm: each single word, image or chapter 
+has to be reveiwed...
+
+10
+00:00:33,760 --> 00:00:37,559
+and it implies many exchanges, discussions, comings and goings...
+
+11
+00:00:37,560 --> 00:00:41,120
+So, what is the lastest version 
+of the working document?
+
+12
+00:00:41,120 --> 00:00:45,480
+You mean the one from the Cardif legal department 
+or from the Partner marketing?
+
+13
+00:00:45,480 --> 00:00:47,640
+They are not on the same version ?!?
+
+14
+00:00:49,840 --> 00:00:52,840
+Well... I'm not sure they are dealing 
+with the very last one
+
+15
+00:00:52,840 --> 00:00:58,320
+Let me check my emails, Jiras & Teams, 
+with other scrum masters and product managers...
+
+16
+00:00:58,320 --> 00:00:59,600
+To be continued...
+
