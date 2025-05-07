@@ -29,22 +29,22 @@ actuariat, marketing, communication...
 Et ça c'est juste côté Cardif;
 
 8
-00:00:25,599 --> 00:00:29,479
+00:00:25,600 --> 00:00:29,480
 ...vous avez la même chose du côté du Partenaire 
 sur la partie commerciale...
 
 9
-00:00:29,479 --> 00:00:33,760
+00:00:29,480 --> 00:00:33,760
 Je confirme: chaque mot, chaque image, chaque chapitre doit être revu...
 
 10
-00:00:33,760 --> 00:00:37,559
+00:00:33,760 --> 00:00:37,560
 et cela implique beaucoup d'échanges, 
 de discussions, d'allers et retours...
 
 11
 00:00:37,560 --> 00:00:41,120
-Bon, quelle est la dernière version
+Bon, quelle est la dernière version 
 du document de travail?
 
 12
@@ -63,10 +63,10 @@ qu'ils utilisent la toute dernière version
 
 15
 00:00:52,840 --> 00:00:58,320
-laisse moi vérifier mes emails, les Jiras et Teams
+laisse moi vérifier mes emails, les Jiras et Teams 
 avec les autres scrum masters et chefs produits...
 
 16
-00:00:58,320 --> 00:00:59,600
+00:00:58,720 --> 00:01:01,800
 A suivre...
 

@@ -2316,7 +2316,7 @@
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">-1</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/julian/Vídeos/presentation_202505_fr.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">/home/julian/Vídeos/presentation_202505_fr_with suspense.mp4</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.uuid">{c394e6a4-1b24-4bbf-9562-3852da7ccfd2}</property>
   <property name="kdenlive:docproperties.version">1.1</property>
