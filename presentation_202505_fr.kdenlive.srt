@@ -1,7 +1,7 @@
 1
 00:00:00,680 --> 00:00:05,680
 Hello guys! Will we be on time 
-for the launching of our new insurance product?
+for the launch of our new insurance product?
 
 2
 00:00:05,640 --> 00:00:10,640
@@ -11,7 +11,7 @@ takes more time than expected...
 3
 00:00:10,640 --> 00:00:14,080
 How come? 
-The blue print was provided 3 months ago!
+The blueprint was provided 3 months ago!
 
 4
 00:00:14,080 --> 00:00:17,520
@@ -39,7 +39,7 @@ on the Business Partner side on the commercial aspects...
 9
 00:00:28,560 --> 00:00:33,760
 I confirm: each single word, image or chapter 
-has to be reveiwed...
+has to be reviewed...
 
 10
 00:00:33,760 --> 00:00:37,560
@@ -47,7 +47,7 @@ and it implies many exchanges, discussions, comings and goings...
 
 11
 00:00:37,560 --> 00:00:41,120
-So, what is the lastest version 
+So, what is the latest version 
 of the working document?
 
 12
@@ -71,6 +71,6 @@ with other scrum masters and product managers...
 
 16
 00:00:59,480 --> 00:01:02,240
-A suivre... /
+A suivre... / 
 To be continued...
 

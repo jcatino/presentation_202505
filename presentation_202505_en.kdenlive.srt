@@ -56,7 +56,7 @@ ou celle du marketing partenaire?
 
 13
 00:00:45,480 --> 00:00:47,640
-Ils ne sont pas sutr la même version?!?
+Ils ne sont pas sur la même version?!?
 
 14
 00:00:47,640 --> 00:00:51,320
@@ -69,6 +69,6 @@ laisse moi vérifier mes emails, les Jiras et Teams
 avec les autres scrum masters et chefs produits...
 
 16
-00:00:59,240 --> 00:01:02,320
+00:00:58,960 --> 00:01:02,040
 A suivre... / To be continued...
 
