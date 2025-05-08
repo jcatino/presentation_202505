@@ -56,20 +56,21 @@ You mean the one from the Cardif legal department
 or from the Partner marketing?
 
 13
-00:00:44,760 --> 00:00:47,200
+00:00:44,760 --> 00:00:46,920
 They are not on the same version ?!?
 
 14
-00:00:50,880 --> 00:00:54,640
-Well... I'm not sure they are dealing 
+00:00:47,200 --> 00:00:50,960
+I'm not sure they are dealing 
 with the very last one
 
 15
-00:00:54,879 --> 00:01:00,760
+00:00:53,440 --> 00:00:59,040
 Let me check my emails, Jiras & Teams, 
 with other scrum masters and product managers...
 
 16
-00:01:01,080 --> 00:01:03,839
-A suivre...
+00:00:59,480 --> 00:01:02,240
+A suivre... /
+To be continued...
 
